@@ -1,1 +1,1 @@
-# sp500_correlation
+# S&P 500 Correlation Information
